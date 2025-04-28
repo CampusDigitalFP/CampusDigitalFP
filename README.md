@@ -1,4 +1,4 @@
-![Cabecera](./images/campusdigitalfp-cabecera.png)
+![Cabecera](campusdigitalfp-cabecera.png)
 <h1 align="center">Bienvenido 👋 Somos CampusDigitalFP, Aragón</h1>
 <h3 align="center">Somos un centro público de Formación Profesional que nace en 2023 con un doble objetivo en red:
 
